@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RICHARDSON\\PROJECTS\\CSharp\\TaskManager\\TaskManager.csproj": {}
+    "/Users/yoletech/CSharp/TaskManager/TaskManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RICHARDSON\\PROJECTS\\CSharp\\TaskManager\\TaskManager.csproj": {
+    "/Users/yoletech/CSharp/TaskManager/TaskManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RICHARDSON\\PROJECTS\\CSharp\\TaskManager\\TaskManager.csproj",
+        "projectUniqueName": "/Users/yoletech/CSharp/TaskManager/TaskManager.csproj",
         "projectName": "TaskManager",
-        "projectPath": "C:\\Users\\RICHARDSON\\PROJECTS\\CSharp\\TaskManager\\TaskManager.csproj",
-        "packagesPath": "C:\\Users\\RICHARDSON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RICHARDSON\\PROJECTS\\CSharp\\TaskManager\\obj\\",
+        "projectPath": "/Users/yoletech/CSharp/TaskManager/TaskManager.csproj",
+        "packagesPath": "/Users/yoletech/.nuget/packages/",
+        "outputPath": "/Users/yoletech/CSharp/TaskManager/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RICHARDSON\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/yoletech/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
