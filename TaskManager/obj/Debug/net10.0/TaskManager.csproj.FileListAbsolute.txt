@@ -12,3 +12,4 @@ C:\Users\RICHARDSON\PROJECTS\CSharp\TaskManager\obj\Debug\net10.0\refint\TaskMan
 C:\Users\RICHARDSON\PROJECTS\CSharp\TaskManager\obj\Debug\net10.0\TaskManager.pdb
 C:\Users\RICHARDSON\PROJECTS\CSharp\TaskManager\obj\Debug\net10.0\TaskManager.genruntimeconfig.cache
 C:\Users\RICHARDSON\PROJECTS\CSharp\TaskManager\obj\Debug\net10.0\ref\TaskManager.dll
+C:\Users\RICHARDSON\PROJECTS\CSharp\TaskManager\obj\Debug\net10.0\TaskManager.sourcelink.json
