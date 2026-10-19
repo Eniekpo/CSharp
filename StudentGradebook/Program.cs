@@ -1,4 +1,4 @@
-﻿Jusing System;
+﻿using System;
 
 namespace StudentGradebook
 {
